@@ -1,0 +1,23 @@
+{
+  "manifest_version": 3,
+  "name": "PIYUSH A2Z TRICKS MSG SENDER E2EE BY EXTENSION 2025-26",
+  "version": "1.0",
+  "description": "Send messages from logged-in Facebook tab. Upload msg.txt, set delay, start/stop, live logs (protected).",
+  "permissions": [
+    "scripting",
+    "storage",
+    "activeTab",
+    "alarms"
+  ],
+  "host_permissions": [
+    "*://*.facebook.com/*",
+    "*://*.m.facebook.com/*"
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "PIYUSH A2Z MSG SENDER"
+  },
+  "background": {
+    "service_worker": "background.js"
+  }
+}
