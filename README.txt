@@ -1,3 +1,21 @@
+PIYUSH A2Z TRICKS E2EE MSG SENDER (2025-26)
+
+➡️ How to Use:
+1️⃣ Open Chrome → Extensions → Developer Mode → Load Unpacked → Select “extension” folder.
+2️⃣ Upload message file (.txt)
+3️⃣ Enter delay time (e.g., 3 seconds)
+4️⃣ Add User or Group links.
+5️⃣ Click [🚀 START] to begin sending.
+6️⃣ [🛑 STOP] to stop instantly.
+
+📞 Contact & Support:
+📺 YouTube: https://youtube.com/@piyush_chauhan447
+💬 WhatsApp: +91 7043592870
+💙 Telegram: https://t.me/YOUR_TELEGRAM_LINK
+🔵 Facebook: https://www.facebook.com/Piyush91Editor
+
+🖥️🖥️🖥️🖥️🖥️🖥️🖥️🖥️🌏🌏🌏🌏🌏🌏🌏🌏
+
 1) Put the folder piyush-fb-sender/ somewhere on your PC or phone.
 2) Open Chrome (desktop) -> chrome://extensions -> enable Developer Mode -> Load unpacked -> choose folder.
    OR in Kiwi Browser (Android) -> Extensions -> Load unpacked (choose folder).
